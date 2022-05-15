@@ -1,2 +1,3 @@
 # React Query
-Playing with React Query data fetching library
+
+Checking out React Query data fetching library
